@@ -3,4 +3,4 @@ based applications.
 
 to build an image run ```docker build -t <my-tag> .```
 
-Based on the official ```docker/node:buster-lts Dockerfile``` examples
+Based on the official ```node/20/buster/Dockerfile``` examples
